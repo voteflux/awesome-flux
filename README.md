@@ -15,6 +15,12 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [flux-website-v2](https://github.com/voteflux/flux-website-v2) - Current flux website code
 
+# Philosophical Writings
+
+* [Vote-Swapping](https://github.com/KipCrossing/Flux-Discord-Bot/blob/master/docs/VOTE-SWAPPING.md) - Some of Kip's ideas around vote swapping
+* [THE-LIQUIDITY-PROBLEM](https://github.com/KipCrossing/Flux-Discord-Bot/blob/master/docs/THE-LIQUIDITY-PROBLEM.md) - Some of Kip's ideas around how to inflate Political Capital 
+* _Please add more_
+
 # Communities
 
 * [Discord](https://discord.io/FluxParty)
