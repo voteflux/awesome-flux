@@ -24,3 +24,4 @@ If you want to contribute to this list (please do), send me a pull request.
 # Communities
 
 * [Discord](https://discord.io/FluxParty)
+* [Forum](https://github.com/voteflux/awesome-flux/issues)
